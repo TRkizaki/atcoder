@@ -4,7 +4,7 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/usr/local/include/**"
+                "/usr/local/Cellar/gcc/13.1.0/include/c++/13/x86_64-apple-darwin21/bits"
             ],
             "defines": [],
             "macFrameworkPath": [
